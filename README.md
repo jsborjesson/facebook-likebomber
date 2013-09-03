@@ -19,7 +19,7 @@ annoying little asshat.
         // 1 second, stop after 50 likes
         likeBomb(1000, 50)
 
-Note: If you want to get as many likes as you can in one go, you should scroll down the page before running the script. This way, Facebook loads more content, and more like-buttons.
+Note: If you want to get as many likes as you can in one go, you should scroll down the page, and "load more comments" before running the script. This way, Facebook loads more content, and more like-buttons.
 
 ## License
 
