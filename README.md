@@ -9,7 +9,7 @@ annoying little asshat.
 
 ## USAGE:
 
-1. Paste the contents of `bomb.js` in the JS-console while on facebook.
+1. Paste the contents of `likeBomb.js` in the JS-console while on facebook.
 2.  Use the function likeBomb(delayInMs, limit)
     For example:
 
