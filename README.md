@@ -20,3 +20,7 @@ annoying little asshat.
         likeBomb(1000, 50)
 
 Note: If you want to get as many likes as you can in one go, you should scroll down the page before running the script. This way, Facebook loads more content, and more like-buttons.
+
+## License
+
+**WTFPL**
